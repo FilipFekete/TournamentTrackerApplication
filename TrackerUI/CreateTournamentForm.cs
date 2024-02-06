@@ -26,5 +26,10 @@ namespace TrackerUI
         {
 
         }
+
+        private void deleteSelectedPlayerButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
