@@ -18,3 +18,7 @@ C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTr
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.CreateTeamForm.resources
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.CreatePrizeForm.resources
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.TournamentDashboardForm.resources
+C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\bin\Debug\net6.0-windows\TrackerLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\bin\Debug\net6.0-windows\TrackerLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.CopyComplete
