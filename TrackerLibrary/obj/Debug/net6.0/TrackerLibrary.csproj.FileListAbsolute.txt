@@ -9,3 +9,4 @@ C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTr
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
 C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\TournamentTrackerApp\Application\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
